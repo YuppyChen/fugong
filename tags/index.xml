@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Itten&#39;s Blog</title>
-    <link>https://ittenblunt.github.io/my-blog/tags/</link>
-    <description>Recent content in Tags on Itten&#39;s Blog</description>
+    <title>Tags on fugong&#39;s Blog</title>
+    <link>https://yuppychen.github.io/fugong/tags/</link>
+    <description>Recent content in Tags on fugong&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ittenblunt.github.io/my-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yuppychen.github.io/fugong/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tools</title>
-      <link>https://ittenblunt.github.io/my-blog/tags/tools/</link>
+      <link>https://yuppychen.github.io/fugong/tags/tools/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ittenblunt.github.io/my-blog/tags/tools/</guid>
+      <guid>https://yuppychen.github.io/fugong/tags/tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
-      <link>https://ittenblunt.github.io/my-blog/tags/music/</link>
+      <link>https://yuppychen.github.io/fugong/tags/music/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ittenblunt.github.io/my-blog/tags/music/</guid>
+      <guid>https://yuppychen.github.io/fugong/tags/music/</guid>
       <description></description>
     </item>
     
