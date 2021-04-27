@@ -1,6 +1,6 @@
-baseURL = "https://ittenblunt.github.io/my-blog/"
+baseURL = "https://yuppychen.github.io/fugong/"
 languageCode = "zh-CN"
-title = "Itten's Blog"
+title = "fugong's Blog"
 theme = "hyde"
 disqusShortname = ""
 hasCJKLanguage = true
@@ -11,11 +11,11 @@ enableEmoji = true
 
 [Menus]
   main = [
-      {Name = "Archives", URL = "https://ittenblunt.github.io/my-blog/posts/"},
-      {Name = "Tags", URL = "https://ittenblunt.github.io/my-blog/tags/"},
-      {Name = "Books", URL = "https://ittenblunt.github.io/my-blog/books/"},
-      {Name = "Movies", URL = "https://ittenblunt.github.io/my-blog/movies/"},
-      {Name = "Photos", URL = "https://ittenblunt.github.io/my-blog/photos/"}
+      {Name = "Archives", URL = "https://yuppychen.github.io/fugong/posts/"},
+      {Name = "Tags", URL = "https://yuppychen.github.io/fugong/tags/"},
+      {Name = "Books", URL = "https://yuppychen.github.io/fugong/books/"},
+      {Name = "Movies", URL = "https://yuppychen.github.io/fugong/movies/"},
+      {Name = "Photos", URL = "https://yuppychen.github.io/fugong/photos/"}
   ]
 
 [params]
