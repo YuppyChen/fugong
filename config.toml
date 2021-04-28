@@ -1,6 +1,5 @@
 ##########################################
 # 站点配置
-
 baseURL = "https://yuppychen.github.io/fugong/"
 title = "FuGong Star"
 languageCode = "zh-CN"
