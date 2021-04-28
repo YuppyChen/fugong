@@ -1,9 +1,6 @@
 ---
-title: "欢迎来到 Hugo 世界"
-date: 2021-01-11
-tags: tools
+title: "Hello World"
+date: 2021-04-26T14:00:45+08:00
+# draft: true
 ---
 
-欢迎来到 Hugo 世界。
-
-开始自己的博客之旅。
