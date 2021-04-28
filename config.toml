@@ -2,7 +2,7 @@
 # 站点配置
 
 baseURL = "https://yuppychen.github.io/fugong/"
-title = "Hugo 主题 MemE"
+title = "FuGong Star"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
@@ -92,17 +92,17 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "yuppy"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "chenyuppy@gmail.com"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    motto = "努力做正确的事情，剩下的交给老天。"
     # 头像
-    avatar = "/icons/apple-touch-icon.png"
+    # avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://yuppychen.github.io/fugong/"
     # 推特
-    twitter = "reuixiy"
+    # twitter = "reuixiy"
 
 # 相关文章
 [related]
@@ -178,36 +178,36 @@ uglyURLs = false
 
 [menu]
     ## 菜单栏
-    # [[menu.main]]
-    #     url = "/"
-    #     name = "首页"
-    #     weight = 1
-    #     pre = "internal"
-    #     post = "home"
+    [[menu.main]]
+        url = "/"
+        name = "Home"
+        weight = 1
+        pre = "internal"
+        # post = "home"
     [[menu.main]]
         url = "/posts/"
-        name = "文章"
+        name = "Archive"
         weight = 2
         pre = "internal"
-        post = "archive"
-    [[menu.main]]
-        url = "/categories/"
-        name = "分类"
-        weight = 3
-        pre = "internal"
-        post = "th"
+        # post = "archive"
+    # [[menu.main]]
+    #     url = "/categories/"
+    #     name = "分类"
+    #     weight = 3
+    #     pre = "internal"
+    #     post = "th"
     [[menu.main]]
         url = "/tags/"
-        name = "标签"
+        name = "Tags"
         weight = 4
         pre = "internal"
-        post = "tags"
+        # post = "tags"
     [[menu.main]]
         url = "/about/"
-        name = "关于"
+        name = "About"
         weight = 5
         pre = "internal"
-        post = "user-circle"
+        # post = "user-circle"
     [[menu.main]]
         weight = 6
         identifier = "theme-switcher"
@@ -336,7 +336,7 @@ uglyURLs = false
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "reuixiy"
+    # siteTwitter = "reuixiy"
     # 说明：用于 Twitter Cards
 
 
@@ -406,7 +406,7 @@ uglyURLs = false
     #      单位：em
 
     # 是否显示列表标题
-    displayListTitle = true
+    displayListTitle = false
 
     # 日期的格式
     listDateFormat = "1 月 2 日"
@@ -417,13 +417,13 @@ uglyURLs = false
     # 说明：left（左边）或 right（右边）
 
     # 是否按月份分隔列表
-    groupByMonth = true
+    groupByMonth = false
 
     # 是否开启十二生肖
     chineseZodiac = true
 
     # 是否翻译年份（仅对年份标题有效）
-    i18nYear = true
+    i18nYear = false
     # 是否翻译月份（仅对月份标题有效）
     i18nMonth = true
 
@@ -722,7 +722,7 @@ uglyURLs = false
     # 文章元信息
 
     # 是否开启（全局设置）
-    enablePostMeta = true
+    enablePostMeta = false
     # 说明：文章的 Front Matter 中的 `meta`
     #      的优先级高于此处
 
@@ -1027,7 +1027,7 @@ uglyURLs = false
     # 文章版权
 
     # 是否开启
-    enablePostCopyright = true
+    enablePostCopyright = false
 
     # 是否显示（全局设置）
     displayPostCopyright = true
@@ -1039,7 +1039,7 @@ uglyURLs = false
     # 文章更新徽章
 
     # 是否开启
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
     # 是否显示（全局设置）
     displayUpdatedBadge = true
@@ -1097,7 +1097,7 @@ uglyURLs = false
     # 文章分享
 
     # 是否开启
-    enablePostShare = true
+    enablePostShare = false
 
     # 是否显示（全局设置）
     displayPostShare = true
@@ -1122,7 +1122,7 @@ uglyURLs = false
     # 相关文章
 
     # 是否开启
-    enableRelatedPosts = true
+    enableRelatedPosts = false
 
     # 是否显示（全局设置）
     displayRelatedPosts = true
@@ -1140,7 +1140,7 @@ uglyURLs = false
     # 文章的标签
 
     # 是否开启
-    enablePostTags = true
+    enablePostTags = false
 
     # 标签的图标
     postTagsIcon = "tag"
@@ -1157,7 +1157,7 @@ uglyURLs = false
     #      的是一篇更旧的文章。
 
     # 是否开启
-    enablePostNav = true
+    enablePostNav = false
 
     # 是否仅限于相同的文章分区
     postNavInSection = true
@@ -1167,14 +1167,14 @@ uglyURLs = false
     # 极简页脚
 
     # 是否开启
-    enableMinimalFooter = false
-    enableVerticalBarStructure = false
+    enableMinimalFooter = true
+    enableVerticalBarStructure = true
     # 说明：如果开启此项，显示在右边的部类或分区
     #      将会包含全部的第一级部类或分区，并且
     #      以竖线（|）分隔开来。
 
     # 是否开启关于页面的极简页脚
-    enableAboutPageMinimalFooter = false
+    enableAboutPageMinimalFooter = true
 
 
     ######################################
@@ -1203,7 +1203,7 @@ uglyURLs = false
     enableFooter = true
 
     # 是否显示
-    displayFooter = true
+    displayFooter = false
 
     # 是否在首页显示
     displayFooterInHome = true
